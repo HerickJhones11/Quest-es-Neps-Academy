@@ -17,6 +17,7 @@ int main(){
             }
         }
     }
+    //algoritmo bubble sort só performa bem ate 10^3
     for(int i = 0; i < 5; i++){
         cout << v[i] << endl;
     }
